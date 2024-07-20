@@ -1,0 +1,36 @@
+.w3-light-grey, .light-grey, .w3-hover-light-grey:hover{
+    background: #394047 !important;
+    color: whitesmoke !important;
+}
+
+.w3-white{
+    background-color: #212529 !important;
+    color: whitesmoke !important;
+}
+.w3-text-black{
+    color: whitesmoke !important;
+}
+.border {
+  border: 1px solid #212529 !important;
+}
+.w3-border-bottom{
+    border-bottom: 1px solid #212529 !important;
+}
+body{
+    color: whitesmoke !important;
+}
+.topButtons button, .songPlay{
+    color: whitesmoke;
+}
+.mui-slider .slider-rail {
+    background: #394047 !important;
+}
+.mobileView{
+    position: relative;
+    overflow: hidden;
+}
+.mobileView:hover{
+    border: none;color: #ffc107;background-color: rgba(255, 243, 205, .5);
+}
+.mobileView .mui-ripple-primary{background-color: rgba(255, 193, 7, .30);}
+.w3-card-16{box-shadow:0 16px 24px 0 rgba(255,255,255,0.02),0 25px 55px 0 rgba(255,255,255,0.01) !important}

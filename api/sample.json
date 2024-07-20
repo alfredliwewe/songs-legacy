@@ -1,0 +1,23 @@
+{
+	"webid":"",
+	"name":"rodz",
+	"photo":"",
+	"resampled":"",
+	"biography":"",
+	"link":"localhost/",
+	"website":"malawi-music.com",
+	"songs":[
+		{
+			"webid":"0",
+			"title":"See you there",
+			"artist":"Rodz",
+			"album":"",
+			"length":"",
+			"artwork":"localhost/",
+			"mp3_url":"localhost/",
+			"dateAdded":"",
+			"genre":"",
+			"website":"mdundo"
+		}
+	]
+}

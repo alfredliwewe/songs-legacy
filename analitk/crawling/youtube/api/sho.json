@@ -1,0 +1,82 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "K0IWh4iBpnSfk4bAvotZB_qJJi0",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "VG6du7IB8I9ElEg7G4pBoXCUgdI",
+      "id": "H9bGITkIHmM",
+      "snippet": {
+        "publishedAt": "2019-08-15T13:00:14Z",
+        "channelId": "UC2Qw1dzXDBAZPwS7zm37g8g",
+        "title": "Sho Madjozi - John Cena | A COLORS SHOW",
+        "description": "South African based artist Sho Madjozi shares a vibrant performance of previously unreleased single ‘John Cena’\n\nFollow\n▶ Stream: https://colors.lnk.to/allshowscxs\n▶ Facebook: https://www.facebook.com/shomadjozi/\n▶ Instagram: https://www.instagram.com/shomadjozi/\n—\nFollow COLORS:\n▶ On Socials: https://colors.lnk.to/socials\n▶ On Spotify: https://colors.lnk.to/Spotify\n▶ On Apple Music: https://colors.lnk.to/applemusic\n▶ On the Web: https://colorsxstudios.com\n▶ Newsletter: https://colorsxstudios.com/newsletter\n—\nCOLORSXSTUDIOS is a unique aesthetic music platform showcasing exceptional talent from around the globe. COLORS focuses on the most distinctive new artists and original sounds in an increasingly fragmented and saturated scene. All COLORS shows seek to provide clear, minimalistic stage that shines a spotlight on the artists, giving them the opportunity to present their music without distraction.\n\n#colors #shomadjozi #johncena",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/H9bGITkIHmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/H9bGITkIHmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/H9bGITkIHmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/H9bGITkIHmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/H9bGITkIHmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "COLORS",
+        "tags": [
+          "ellen show",
+          "john cena",
+          "samthing soweto",
+          "colorsstudios",
+          "colorsberlin",
+          "All Colors Shows",
+          "A COLORS SHOW",
+          "colors",
+          "colorsxstudios",
+          "live session",
+          "live performance",
+          "colours",
+          "studios",
+          "Music Video",
+          "sho madjozi colors",
+          "BET Awards",
+          "gqom",
+          "lion king soundtrack",
+          "south african house",
+          "sho madjozi john cena",
+          "vosho dance",
+          "huku",
+          "idhom",
+          "kelly clarkson"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Sho Madjozi - John Cena | A COLORS SHOW",
+          "description": "South African based artist Sho Madjozi shares a vibrant performance of previously unreleased single ‘John Cena’\n\nFollow\n▶ Stream: https://colors.lnk.to/allshowscxs\n▶ Facebook: https://www.facebook.com/shomadjozi/\n▶ Instagram: https://www.instagram.com/shomadjozi/\n—\nFollow COLORS:\n▶ On Socials: https://colors.lnk.to/socials\n▶ On Spotify: https://colors.lnk.to/Spotify\n▶ On Apple Music: https://colors.lnk.to/applemusic\n▶ On the Web: https://colorsxstudios.com\n▶ Newsletter: https://colorsxstudios.com/newsletter\n—\nCOLORSXSTUDIOS is a unique aesthetic music platform showcasing exceptional talent from around the globe. COLORS focuses on the most distinctive new artists and original sounds in an increasingly fragmented and saturated scene. All COLORS shows seek to provide clear, minimalistic stage that shines a spotlight on the artists, giving them the opportunity to present their music without distraction.\n\n#colors #shomadjozi #johncena"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 1
+  }
+}
